@@ -1,6 +1,6 @@
 {
   "name": "gatsby-starter-bootstrap",
-  "description": "Simple starter for Gatsby",
+  "description": "",
   "version": "3.0.0",
   "author": "Futoshi Iwashita <jaxx2104@gmail.com>",
   "dependencies": {
@@ -63,11 +63,7 @@
     "textlint-rule-preset-japanese": "4.0.4",
     "typescript": "3.9.5"
   },
-  "keywords": [
-    "gatsby",
-    "gatstrap",
-    "starter"
-  ],
+  "keywords": [],
   "license": "MIT",
   "lint-staged": {
     "*.{js,json,md}": [
